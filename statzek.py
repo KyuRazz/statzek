@@ -10,7 +10,7 @@ def banner():
 ███████    ██    ███████    ██      ███   █████   █████   
      ██    ██    ██   ██    ██     ███    ██      ██  ██  
 ███████    ██    ██   ██    ██    ███████ ███████ ██   ██ 
-Serizawa
+Serizawa - Zekkel AR
 	""")
 
 def markow(anjing):
